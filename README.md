@@ -1,5 +1,4 @@
-## Olá! Eu sou Cristina Neves, estudante de programação. 
-Sou aluna do curso de Análise e Desenvolvimento de Sistemas na Unipê. Meu foco de estudos é na parte de Back-End, porém não me limito e estou disposta a ampliar meus conhecimentos desenvolvendo projetos na área de Front-End e Dados.
+## Olá! Eu sou Ana Cristina, estudante de Análise e Desenvolvimento de Sistemas. 
 
 <div align="center">
   <a href="https://github.com/anacristinaneves">
