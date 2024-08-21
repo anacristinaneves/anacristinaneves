@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Ana+Cristina.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" height="200">
+<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
 
 
@@ -22,8 +22,8 @@
 
 <div align="center">
   <a href="https://github.com/anacristinaneves">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anacristinaneves&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacristinaneves&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  <img height="60%" src="https://github-readme-stats.vercel.app/api?username=anacristinaneves&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+  <img height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacristinaneves&layout=compact&langs_count=7&theme=one_dark_pro"/>
 </div>
     
 ### Contact 
